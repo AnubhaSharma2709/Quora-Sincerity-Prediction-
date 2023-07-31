@@ -8,7 +8,7 @@
     <center>
         <table>
             <tr>
-                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" alt="Project Related Image"></td>
+                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=100, height=100, alt="Project Related Image"></td>
                 <td><h2>Project title: Predict Whether Questions Asked by Quora Are Sincere or Insincere using BERT Model</h2></td>
             </tr>
         </table>
