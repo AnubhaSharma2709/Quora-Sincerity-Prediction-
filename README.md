@@ -1,16 +1,13 @@
 <center>
         <table>
             <tr>
-                 <td><img src="https://media.licdn.com/dms/image/C4E0BAQGd6hkIXRdFFQ/company-logo_200_200/0/1594550712948?e=1698883200&v=beta&t=bpL3Ear4VjKlnGzKdXsCVE7PYjujq1X_LdEQMf05Xdc" width=90, height=90, alt="Project Related Image"></td>
                 <td><h1>Interestship 5.0 Project Organized By Clique Community</h1></td>
-                 <td><img src="https://media.licdn.com/dms/image/C4D0BAQGEEmtRu1wrYA/company-logo_200_200/0/1623954260616?e=1698883200&v=beta&t=cjBoIKXZg6_jlB_zW8eooS8rlzxAV1OY4NJhp-7z9Js" width=90, height=90, alt="Project Related Image"></td>
             </tr>
         </table>
     </center>
     <center>
-        <table border="0">
+        <table>
             <tr>
-                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=90, height=80, alt="Project Related Image"></td>
                 <td><h2><center>Project title:<br> Predict Whether Questions Asked on Quora Are Sincere or Insincere using BERT Model</br></center></h2></td>
             </tr>
         </table>
@@ -34,7 +31,7 @@
         </p>
         <h2>References</h2>
         <p>
-         <a href="https://github.com/datascienceworkss/NLP-INTERESTSHIP.git">Learning Material </a>
+         <a href="https://github.com/datascienceworkss/NLP-INTERESTSHIP.git">Learning Material </a><br>
          <a href="https://docs.google.com/presentation/d/1T2a1wHdIdqZqW9ZcOYpCzxNLMWujClyl/edit?usp=sharing&ouid=102814342022823918840&rtpof=true&sd=true"> Presentation Link</a>
         </p>
        
