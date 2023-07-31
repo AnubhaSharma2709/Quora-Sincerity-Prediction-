@@ -1,15 +1,17 @@
 <center>
         <table>
             <tr>
+                 <td><img src="https://media.licdn.com/dms/image/C4E0BAQGd6hkIXRdFFQ/company-logo_200_200/0/1594550712948?e=1698883200&v=beta&t=bpL3Ear4VjKlnGzKdXsCVE7PYjujq1X_LdEQMf05Xdc" width=150, height=100, alt="Project Related Image"></td>
                 <td><h1>Interestship 5.0 Project Organized By Clique Community</h1></td>
+                 <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=150, height=100, alt="Project Related Image"></td>
             </tr>
         </table>
     </center>
     <center>
         <table>
             <tr>
-                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=100, height=100, alt="Project Related Image"></td>
-                <td><h2>Project title: Predict Whether Questions Asked by Quora Are Sincere or Insincere using BERT Model</h2></td>
+                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=150, height=100, alt="Project Related Image"></td>
+                <td><h2><center>Project title:<b> Predict Whether Questions Asked by Quora Are Sincere or Insincere using BERT Model</b></center></h2></td>
             </tr>
         </table>
     </center>
@@ -34,6 +36,7 @@
         <p>
             [List of relevant references goes here]
         </p>
-        <p> I extend my heartfelt thanks to Clique Community and IEEE Gujarat Section for organizing this project and providing me with the opportunity to learn, collaborate, and successfully complete this NLP venture with BERT. </p>
+        <hr>
+        <p> I extend my heartfelt thanks to Clique Community and IEEE Gujarat Section for organizing this project and providing me with the opportunity to learn, collaborate, and successfully complete this project. </p>
  
 
