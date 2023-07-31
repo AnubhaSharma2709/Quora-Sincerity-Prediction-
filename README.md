@@ -1,5 +1,5 @@
 <center>
-        <table style="border-width:0px">
+        <table border="0" width="0px">
             <tr>
                  <td><img src="https://media.licdn.com/dms/image/C4E0BAQGd6hkIXRdFFQ/company-logo_200_200/0/1594550712948?e=1698883200&v=beta&t=bpL3Ear4VjKlnGzKdXsCVE7PYjujq1X_LdEQMf05Xdc" width=120, height=120, alt="Project Related Image"></td>
                 <td><h1>Interestship 5.0 Project Organized By Clique Community</h1></td>
@@ -10,7 +10,7 @@
     <center>
         <table border="0">
             <tr>
-                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=90, height=85, alt="Project Related Image"></td>
+                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=90, height=80, alt="Project Related Image"></td>
                 <td><h2><center>Project title:<b> Predict Whether Questions Asked on Quora Are Sincere or Insincere using BERT Model</b></center></h2></td>
             </tr>
         </table>
