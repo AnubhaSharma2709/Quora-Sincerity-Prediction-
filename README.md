@@ -34,7 +34,7 @@
         </p>
         <h2>References</h2>
         <p>
-         <a href="https://github.com/datascienceworkss/NLP-INTERESTSHIP.git"></a>
+         <a href="https://github.com/datascienceworkss/NLP-INTERESTSHIP.git">Learning Material </a>
          <a href="https://docs.google.com/presentation/d/1T2a1wHdIdqZqW9ZcOYpCzxNLMWujClyl/edit?usp=sharing&ouid=102814342022823918840&rtpof=true&sd=true"> Presentation Link</a>
         </p>
        
