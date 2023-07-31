@@ -1,5 +1,5 @@
 <center>
-        <table border="0" width="0px">
+        <table>
             <tr>
                  <td><img src="https://media.licdn.com/dms/image/C4E0BAQGd6hkIXRdFFQ/company-logo_200_200/0/1594550712948?e=1698883200&v=beta&t=bpL3Ear4VjKlnGzKdXsCVE7PYjujq1X_LdEQMf05Xdc" width=120, height=120, alt="Project Related Image"></td>
                 <td><h1>Interestship 5.0 Project Organized By Clique Community</h1></td>
