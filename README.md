@@ -1,17 +1,16 @@
 <center>
-        <table>
-                border=none;
+        <table border="0">
             <tr>
-                 <td><img src="https://media.licdn.com/dms/image/C4E0BAQGd6hkIXRdFFQ/company-logo_200_200/0/1594550712948?e=1698883200&v=beta&t=bpL3Ear4VjKlnGzKdXsCVE7PYjujq1X_LdEQMf05Xdc" width=150, height=150, alt="Project Related Image"></td>
+                 <td><img src="https://media.licdn.com/dms/image/C4E0BAQGd6hkIXRdFFQ/company-logo_200_200/0/1594550712948?e=1698883200&v=beta&t=bpL3Ear4VjKlnGzKdXsCVE7PYjujq1X_LdEQMf05Xdc" width=150, height=200, alt="Project Related Image"></td>
                 <td><h1>Interestship 5.0 Project Organized By Clique Community</h1></td>
                  <td><img src="https://media.licdn.com/dms/image/C4D0BAQGEEmtRu1wrYA/company-logo_200_200/0/1623954260616?e=1698883200&v=beta&t=cjBoIKXZg6_jlB_zW8eooS8rlzxAV1OY4NJhp-7z9Js" width=150, height=150, alt="Project Related Image"></td>
             </tr>
         </table>
     </center>
     <center>
-        <table>
+        <table border="0">
             <tr>
-                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=150, height=100, alt="Project Related Image"></td>
+                <td><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/07/91/5f1af38e4ea62.png" width=100, height=50, alt="Project Related Image"></td>
                 <td><h2><center>Project title:<b> Predict Whether Questions Asked by Quora Are Sincere or Insincere using BERT Model</b></center></h2></td>
             </tr>
         </table>
